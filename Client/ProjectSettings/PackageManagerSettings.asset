@@ -26,14 +26,6 @@ MonoBehaviour:
     m_IsDefault: 1
     m_Capabilities: 7
     m_ConfigSource: 0
-  - m_Id: scoped:project:npm
-    m_Name: npm
-    m_Url: https://registry.npmjs.org
-    m_Scopes:
-    - com.kyrylokuzyk
-    m_IsDefault: 0
-    m_Capabilities: 0
-    m_ConfigSource: 4
   - m_Id: scoped:project:AlicizaX
     m_Name: AlicizaX
     m_Url: https://package.openupm.com
@@ -49,6 +41,6 @@ MonoBehaviour:
   m_RegistryInfoDraft:
     m_Modified: 0
     m_ErrorMessage: 
-    m_UserModificationsInstanceId: -830
-    m_OriginalInstanceId: -834
+    m_UserModificationsInstanceId: -848
+    m_OriginalInstanceId: -852
   m_LoadAssets: -1
